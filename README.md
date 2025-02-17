@@ -1,2 +1,0 @@
-# Zakyy.Official
-web
